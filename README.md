@@ -31,11 +31,14 @@ If you find this useful, please cite our work as follows:
 ```
 @proceedings{ChoIshida_CollabTech2019,
   author    = {Heeryon Cho and Toru Ishida},
-  title     = {Discovering Latent Country Words: A Step towards Cross-cultural Emotional Communication},
-  booktitle = {Proceedings of CollabTech 2019},
-  volume    = {XXXX},
+  title     = {Discovering Latent Country Words: {A} Step towards Cross-Cultural Emotional Communication},
+  booktitle = {Collaboration Technologies and Social Computing - 25th International
+               Conference, CRIWG/CollabTech 2019, Kyoto, Japan, September 4-6, 2019,
+               Proceedings},
+  pages     = {232--241},
+  volume    = {11677},
   series    = {LNCS},
   publisher = {Springer},
-  year      = {2019},
+  year      = {2019}
 }
 ```
